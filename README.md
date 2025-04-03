@@ -49,3 +49,6 @@ I’m a problem solver at heart, and my goal is to turn complex data into action
 
 - **Master of Science** - Artificial Intelligence and Business Analytics  
   *University of South Florida* (Expected Dec 2025)
+    
+- **Bachelor of Technology** - Computer Science and Engineering  
+  *Sikkim Manipal University* (Jun 2011 - Jun 2015)
