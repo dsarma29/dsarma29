@@ -31,7 +31,7 @@
 ###
 
 <div align="left">
-  <a href="debjani2907@gmail.com" target="_blank">
+  <a href="debjanisarma7@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/debjani-sarma-6329a4103/" target="_blank">
@@ -48,14 +48,3 @@ I’m a problem solver at heart, and my goal is to turn complex data into action
 
 - **Master of Science** - Artificial Intelligence and Business Analytics  
   *University of South Florida* (Expected Dec 2025)
-  
-- **Bachelor of Technology** - Computer Science and Engineering  
-  *Sikkim Manipal University* (Jun 2011 - Jun 2015)
-## 📬 Reach Out to Me
-
-You can contact me through the following channels:
-
-- 📧 Email: [debjanisarma7@gmail.com](mailto:debjanisarma7@gmail.com)
-- 🌐 LinkedIn: [Debjani Sarma](https://www.linkedin.com/in/debjani-sarma-6329a4103)
-- 💼 GitHub: [dsarma29/Portfolio-Projects](https://github.com/dsarma29/Portfolio-Projects)
-
