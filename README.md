@@ -40,7 +40,8 @@
 </div>
 
 
-**About Me!**
+<h3>About Me!</h3>
+
 I’m Debjani, a graduate student pursuing a **Master of Science in Artificial Intelligence and Business Analytics** at the **University of South Florida**. With 7 years of experience in **IT**, spanning data modeling, analysis, and system integration, I've had the chance to solve real-world problems and optimize processes across industries. 
 
 I’m a problem solver at heart, and my goal is to turn complex data into actionable insights that drive business decisions. I’m passionate about **Python**, **SQL**, **Machine Learning**, **Data Visualization**, and all things **data analytics**. 💡
