@@ -14,10 +14,10 @@
 📊 Power BI & Tableau &nbsp; • &nbsp;
 📈 Excel &nbsp; • &nbsp;
 🤖 Machine Learning &nbsp; • &nbsp;
+📐 Statistics (A/B Testing, Hypothesis Testing) &nbsp; • &nbsp; 
 🔄 Agile / Scrum
 
 </div>
-###
 
 <div align="left">
   <a href="debjanisarma7@gmail.com" target="_blank">
