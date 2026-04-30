@@ -14,6 +14,7 @@
 🤖 Machine Learning &nbsp; • &nbsp;
 📐 Statistics (A/B Testing, Hypothesis Testing) &nbsp; • &nbsp; 
 🔄 Agile / Scrum
+  
 </div>
 
 <div align="left">
