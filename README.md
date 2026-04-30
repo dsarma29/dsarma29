@@ -1,4 +1,4 @@
-<h2 align="left">Hey, I'm Debjani Sarma - Data and Business Analyst 👩‍💻📊</h2>
+<h2 align="left">Debjani Sarma - Data and Business Analyst 👩‍💻📊</h2>
 
 ###
 
