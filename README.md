@@ -6,27 +6,17 @@
 
 ###
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" />
-  <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" />
-  <img width="12" />
+<b>🛠️ Skills</b><br><br>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" />
+🐍 Python (NumPy, Pandas) &nbsp; • &nbsp;
+🗄️ SQL (MySQL, PostgreSQL) &nbsp; • &nbsp;
+📊 Power BI & Tableau &nbsp; • &nbsp;
+📈 Excel &nbsp; • &nbsp;
+🤖 Machine Learning &nbsp; • &nbsp;
+🔄 Agile / Scrum
+
 </div>
-
 ###
 
 <div align="left">
