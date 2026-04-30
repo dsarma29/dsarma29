@@ -53,7 +53,7 @@ Interested in roles where data can be used to drive practical, measurable busine
 ## 🎓 Education
 
 - **Master of Science** - Business Analytics and AI
-- *University of South Florida* (Dec 2025)
+  *University of South Florida* (Dec 2025)
     
 - **Bachelor of Technology** - Computer Science and Engineering
-- *Sikkim Manipal University* (Jun 2011 - Jun 2015)
+  *Sikkim Manipal University* (Jun 2011 - Jun 2015)
