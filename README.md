@@ -1,31 +1,30 @@
-<h2 align="left">Hey, I'm Debjani Sarma - Data Analyst in the Making 👩‍💻📊</h2>
+<h2 align="left">Hey, I'm Debjani Sarma - Data and Business Analyst 👩‍💻📊</h2>
 
 ###
 
 <img align="right" height="173" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHcxc2hqY29hdjBwY3RpbGg0dWVtZHFkYmRkdXl1amdzcGpwaG1rZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif"  />
 
 ###
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="rstudio logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" />
 </div>
 
 ###
@@ -42,13 +41,16 @@
 
 <h3>About Me!</h3>
 
-I’m Debjani, a graduate student pursuing a **Master of Science in Artificial Intelligence and Business Analytics** at the **University of South Florida**. With 7 years of experience in **IT**, spanning data modeling, analysis, and system integration, I've had the chance to solve real-world problems and optimize processes across industries. 
+Hello! I am Debjani, a Data Analyst with a Master's in **Business Analytics and AI** from the **University of South Florida** and 8 years of experience across banking, retail, energy, and pharmaceutical domains.
 
-I’m a problem solver at heart, and my goal is to turn complex data into actionable insights that drive business decisions. I’m passionate about **Python**, **SQL**, **Data Visualization**, **Machine Learning** and all things **data analytics**. 💡
+I work with *SQL*, *Python*, *Excel*, and *data visualization* to analyze complex datasets, build dashboards, and support data-driven decision-making. Experience includes data modeling, system integration, and translating business requirements into analytical solutions.
+
+Interested in roles where data can be used to drive practical, measurable business outcomes. 💡
+
 ## 🎓 Education
 
-- **Master of Science** - Artificial Intelligence and Business Analytics  
-  *University of South Florida* (Expected Dec 2025)
+- **Master of Science** - Business Analytics and AI
+  *University of South Florida* (Dec 2025)
     
 - **Bachelor of Technology** - Computer Science and Engineering  
   *Sikkim Manipal University* (Jun 2011 - Jun 2015)
