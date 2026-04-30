@@ -6,9 +6,7 @@
 
 ###
 <div align="left">
-
 <b>🛠️ Skills</b><br><br>
-
 🐍 Python (NumPy, Pandas) &nbsp; • &nbsp;
 🗄️ SQL (MySQL, PostgreSQL) &nbsp; • &nbsp;
 📊 Power BI & Tableau &nbsp; • &nbsp;
@@ -16,7 +14,6 @@
 🤖 Machine Learning &nbsp; • &nbsp;
 📐 Statistics (A/B Testing, Hypothesis Testing) &nbsp; • &nbsp; 
 🔄 Agile / Scrum
-
 </div>
 
 <div align="left">
@@ -32,7 +29,7 @@
 </div>
 
 
-<h3>About Me!</h3>
+## <h3>About Me!</h3>
 
 Hello! I am Debjani, a Data Analyst with a Master's in **Business Analytics and AI** from the **University of South Florida** and 8 years of experience across banking, retail, energy, and pharmaceutical domains.
 
