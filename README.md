@@ -7,6 +7,7 @@
 ###
 <div align="left">
 <b>🛠️ Skills</b><br><br>
+  
 🐍 Python (NumPy, Pandas) &nbsp; • &nbsp;
 🗄️ SQL (MySQL, PostgreSQL) &nbsp; • &nbsp;
 📊 Power BI & Tableau &nbsp; • &nbsp;
@@ -16,6 +17,7 @@
 🔄 Agile / Scrum
   
 </div>
+
 
 <div align="left">
   <a href="debjanisarma7@gmail.com" target="_blank">
