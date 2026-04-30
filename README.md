@@ -36,6 +36,11 @@
   <a href="https://www.linkedin.com/in/debjani-sarma-6329a4103/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="https://dsarma29.github.io" target="_blank" style="text-decoration:none;">
+  <button style="background-color:#24292e; color:white; border:none; padding:8px 16px; margin-left:6px; border-radius:4px; cursor:pointer;">
+    🌐 PORTFOLIO
+  </button>
+</a>
 </div>
 
 
